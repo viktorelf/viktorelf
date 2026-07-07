@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Viki
 - 📫 How to reach me: discord - vouarthefelling
 - 😄 Pronouns: she\her
+- 🦄Learning Python, Typescript, JavaScript and CSS for creating magic
